@@ -18,9 +18,9 @@ This project is about our team coming together to create a "Twitter-like" websit
     <td>dp1325</td>
   </tr>
   <tr>
-    <td>Place holder</td>
-    <td>Place holder</td>
-    <td>Place holder</td>
+    <td>Duquan Tillman</td>
+    <td>Dmt267</td>
+    <td>Dmt267</td>
   </tr>
   <tr>
     <td>Place holder</td>
