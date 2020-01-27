@@ -23,9 +23,9 @@ This project is about our team coming together to create a "Twitter-like" websit
     <td>Dmt267</td>
   </tr>
   <tr>
-    <td>Place holder</td>
-    <td>Place holder</td>
-    <td>Place holder</td>
+    <td>Preston Weaver</td>
+    <td>ptweaver3873</td>
+    <td>PTW41</td>
   </tr>
 </table>
 		
