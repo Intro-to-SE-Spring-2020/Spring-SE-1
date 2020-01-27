@@ -14,8 +14,8 @@ This project is about our team coming together to create a "Twitter-like" websit
   </tr>
   <tr>
     <td>Daniel Powell</td>
-    <td>dp1325</td>
-    <td>dp1325</td>
+    <td>DP1325</td>
+    <td>DP1325</td>
   </tr>
   <tr>
     <td>Duquan Tillman</td>
