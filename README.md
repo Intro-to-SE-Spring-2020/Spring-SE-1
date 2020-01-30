@@ -32,3 +32,5 @@ This project is about our team coming together to create a "Twitter-like" websit
 		
 
 		
+Front end: HTML, CSS, Javascript (React-TBD)  
+Back end: Python (FLASK), etc.. (TBD)
